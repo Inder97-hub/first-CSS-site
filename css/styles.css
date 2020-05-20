@@ -1,0 +1,161 @@
+body{
+  color:#40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+.prof{
+  width: 250px;
+  height: 250px;
+  margin:auto;
+}
+p{
+    line-height: 2;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  color: #66BFBF;
+}
+.engi{
+  font-size:2.5rem;
+  color: #66BFBF;
+  font-weight: lighter;
+}
+
+h2{
+font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+padding-bottom: 10px;
+
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.top-container{
+background-color:#E4F9F5;
+position: relative;
+padding-top: 100px;
+}
+hr{
+  border: dotted;
+  color:#e4e4e4;
+  height: 6px;
+  border-bottom:none;
+  border-left: none;
+  border-right: none;
+  width: 4%;
+  margin: 50px auto;
+
+
+}
+.middle-container{
+  margin:80px auto 80px auto;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.cloud1{
+  position:absolute;
+  top:50px;
+  right:350px;
+}
+.cloud2{
+  position:absolute;
+  bottom:300px;
+  left: 250px;
+}
+.mountain1{
+}
+.en{
+  text-decoration:underline;
+}
+.skill-row{
+  width:50%;
+  margin: 70px auto;
+  text-align:left;
+
+}
+.bike-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+
+}
+.code-img{
+  width: 25%;
+  float:right;
+  margin-right: 40px;
+}
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.intro{
+  width:30%;
+  margin:auto;
+}
+.contact-intro{
+  width:30%;
+  margin:40px auto 60px;
+}
+.btn:hover{
+  color:#EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding:20px 0px;
+}
+.btn{
+	-moz-box-shadow: 0px 10px 14px -7px #276873;
+	-webkit-box-shadow: 0px 10px 14px -7px #276873;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+text-indent:0;
+	display:inline-block;
+	color:#ffffff;
+font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0px 1px 0px #3d768a;
+}.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11999e), color-stop(1, #11cdd4) );
+	background:-moz-linear-gradient( center top, #11999e 5%, #11cdd4 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11999e', endColorstr='#11cdd4');
+	background-color:#11999e;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
